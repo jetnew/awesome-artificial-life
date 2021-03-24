@@ -29,6 +29,7 @@ A curated list of awesome [Artificial Life](https://en.wikipedia.org/wiki/Artifi
 
 ### Articles
 - **The past, present, and future of artificial Life** (2014), Aguilar, W., Santamaría-Bonfil, G., Froese, T., and Gershenson, C. [[article]](https://www.frontiersin.org/articles/10.3389/frobt.2014.00008/full)
+- **An Introduction to Aritifical Life for People who Like AI** (2019), Lana Sinapayen [[article]](https://thegradient.pub/an-introduction-to-artificial-life-for-people-who-like-ai/)
 
 
 ### Books
@@ -37,7 +38,7 @@ A curated list of awesome [Artificial Life](https://en.wikipedia.org/wiki/Artifi
 
 ### Videos
 
-- Introduction to Artifical Life Concepts (2013), Dave Ackley [[video]](https://www.youtube.com/watch?v=YJRRu4dJnTI)
+- **Introduction to Artifical Life Concepts** (2013), Dave Ackley [[video]](https://www.youtube.com/watch?v=YJRRu4dJnTI)
 
 ## Artifical Intelligence
 
