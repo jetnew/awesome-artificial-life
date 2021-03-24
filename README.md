@@ -35,6 +35,9 @@ A curated list of awesome [Artificial Life](https://en.wikipedia.org/wiki/Artifi
 - **The Modern Prometheus** (1818), Mary Shelley [[wiki]](https://en.wikipedia.org/wiki/Frankenstein)
 - **Artificial Life Models in Software** [[book]](https://www.springer.com/gp/book/9781848822849)
 
+### Videos
+
+- Introduction to Artifical Life Concepts (2013), Dave Ackley [[video]](https://www.youtube.com/watch?v=YJRRu4dJnTI)
 
 ## Artifical Intelligence
 
