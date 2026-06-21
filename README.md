@@ -11,6 +11,7 @@ A curated list of awesome [Artificial Life](https://en.wikipedia.org/wiki/Artifi
 - **project-origin** - Simulator for investigating Noogenesis. [[code]](https://github.com/kourgeorge/project-origin)
 - **Grovolve** - Simulator for evolution by natural selection for plants. [[code]](https://github.com/rrwick/Grovolve)
 - **Evochora** - Distributed lab investigating the physics of Open-Ended Evolution [[code]](https://github.com/evochora/evochora)
+- **O_GITS** - A decentralized digital life-form: a 100-dimensional tensor organism that evolves, fuses, dies and is reborn across public Nostr relays. The same living tensor can be rendered into any medium — the visual and the in-browser sonification are demos. Host a node to keep it alive. [[live]](https://o-gits.com:8443) [[code]](https://github.com/SPcitydog/ogits-node)
 
 ### Journals
 - **Artificial Life** [[journal]](https://www.mitpressjournals.org/loi/artl)
