@@ -27,6 +27,7 @@ A curated list of awesome [Artificial Life](https://en.wikipedia.org/wiki/Artifi
 - **Artificial life: organization, adaptation and complexity from the bottom up** (2003), Mark A. Bedau [[pdf]](https://people.reed.edu/~mab/publications/papers/BedauTICS03.pdf)
 - **A Solution to the Biodiversity Paradox by Logical Deterministic Cellular Automata** (2015), Kalmykov, L.V., Kalmykov, V.L. [[paper]](https://link.springer.com/article/10.1007%2Fs10441-015-9257-9#citeas)
 - **AI Beyond Computer Games** (1999), Andrew Stern [[pdf]](https://www.aaai.org/Papers/Symposia/Spring/1999/SS-99-02/SS99-02-017.pdf)
+- **Cadence: an architecture for a continuous and efficient stream of intelligence** (2026), Bernhard Mueller [[paper]](https://philpapers.org/rec/MUECAP-2) [[code]](https://github.com/muellerberndt/cadence)
 
 ### Articles
 - **The past, present, and future of artificial Life** (2014), Aguilar, W., Santamaría-Bonfil, G., Froese, T., and Gershenson, C. [[article]](https://www.frontiersin.org/articles/10.3389/frobt.2014.00008/full)
