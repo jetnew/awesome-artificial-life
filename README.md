@@ -4,6 +4,7 @@ A curated list of awesome [Artificial Life](https://en.wikipedia.org/wiki/Artifi
 ## Table of Contents
 
 ### Simulators
+- **GenePool** - Browser sandbox where physics-driven swimmers with neural brains evolve, hunt and speciate. Focused on open-ended evolution and the speciation problem. [[code]](https://github.com/shamichvolga/genepool) [[demo]](https://shamichvolga.github.io/genepool/)
 - **Lenia** - Mathematical life forms. [[code]](https://github.com/Chakazul/Lenia)
 - **seagull** - Python library for Conway's Game of Life. [[code]](https://github.com/ljvmiranda921/seagull)
 - **aeongarden** - Toy for Apple devices built with SpriteKit. [[code]](https://github.com/amiantos/aeongarden)
