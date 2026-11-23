@@ -11,6 +11,7 @@ A curated list of awesome [Artificial Life](https://en.wikipedia.org/wiki/Artifi
 - **project-origin** - Simulator for investigating Noogenesis. [[code]](https://github.com/kourgeorge/project-origin)
 - **Grovolve** - Simulator for evolution by natural selection for plants. [[code]](https://github.com/rrwick/Grovolve)
 - **Evochora** - Distributed lab investigating the physics of Open-Ended Evolution [[code]](https://github.com/evochora/evochora)
+- **Game of Society** - Browser-based programmable cellular automata where cells can have multiple properties and transition rules are written in JavaScript [[code]](https://github.com/alirizasaral/game_of_society)
 
 ### Journals
 - **Artificial Life** [[journal]](https://www.mitpressjournals.org/loi/artl)
