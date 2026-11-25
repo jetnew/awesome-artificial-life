@@ -11,6 +11,7 @@ A curated list of awesome [Artificial Life](https://en.wikipedia.org/wiki/Artifi
 - **project-origin** - Simulator for investigating Noogenesis. [[code]](https://github.com/kourgeorge/project-origin)
 - **Grovolve** - Simulator for evolution by natural selection for plants. [[code]](https://github.com/rrwick/Grovolve)
 - **Evochora** - Distributed lab investigating the physics of Open-Ended Evolution [[code]](https://github.com/evochora/evochora)
+- **The Human Box** - Browser civilization sim in which tribes invent their own languages. [[code]](https://github.com/1homsi/thehumanbox)
 
 ### Journals
 - **Artificial Life** [[journal]](https://www.mitpressjournals.org/loi/artl)
